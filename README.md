@@ -1,4 +1,4 @@
-# BSPforDA
+# Batch-Spectral-Penalization
 
 ## Prerequisites:
 
@@ -21,5 +21,3 @@ All the parameters are set as the same as parameters mentioned in the article.
 You can use the following commands to the tasks:
 
 BSP+DANN: python -u BSP+DANN.py
-
-BSP+CDAN: python -u BSP+CDAN.py
