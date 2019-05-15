@@ -3,7 +3,7 @@
 ## Prerequisites:
 
 * Python3
-* PyTorch >= 0.4.0 (with suitable CUDA and CuDNN version)
+* PyTorch == 0.4.0/0.4.1 (with suitable CUDA and CuDNN version)
 * torchvision >= 0.2.1
 * Numpy
 * argparse
