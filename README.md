@@ -28,8 +28,7 @@ If you use this code for your research, please consider citing:
 
 `
 @inproceedings{BSP_ICML_19,
-`
-`
+
   title={Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation},
 `
 
