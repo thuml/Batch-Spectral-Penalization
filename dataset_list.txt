@@ -1,0 +1,18 @@
+You can replace src and tgt with:
+visda: train and val in visda
+a: amazon in office
+w: webcam in office
+d: dslr in office
+A: Art in officehome
+C: Clipart in officehome
+P: Product in officehome
+R: Real_World in officehome
+
+We use ResNet-101 for vista and ResNet-50 for office and officehome.
+
+You can also run: python -u train_version2.py --gpu_id n --src src --tgt tgt ,
+which is anther version of BSP, which may achieve better performances in some datasets.
+More interesting results may be found in the future about this phenomenon.
+
+
+
