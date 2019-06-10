@@ -11,13 +11,26 @@
 
 ## Dataset:
 
-VisDA 2017 dataset can be found [here](https://github.com/VisionLearningGroup/taskcv-2017-public) in the classification track.
+You need to modify the path of the image in every ".txt" in "./data".
 
-You need to modify the path of the image in "train.txt" and "validition.txt".
-
-## Training on VisDA challenge:
+## Training on one dataset:
 
 All the parameters are set as the same as parameters mentioned in the article. 
 You can use the following commands to the tasks:
 
-BSP+DANN: python -u BSP+DANN.py
+python -u train.py --gpu_id n --src src --tgt tgt
+
+n is the gpu id you use, src and tgt can be chosen as in "dataset_list.txt".
+
+## Citation:
+
+If you use this code for your research, please consider citing:
+`
+@inproceedings{chen2019transferability,
+  title={Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation},
+  author={Chen, Xinyang and Wang, Sinan and Long, Mingsheng and Wang, Jianmin},
+  booktitle={International Conference on Machine Learning},
+  pages={1081--1090},
+  year={2019}
+}
+`
