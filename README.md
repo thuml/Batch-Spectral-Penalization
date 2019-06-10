@@ -25,11 +25,10 @@ n is the gpu id you use, src and tgt can be chosen as in "dataset_list.txt".
 ## Citation:
 
 If you use this code for your research, please consider citing:
-`
-@inproceedings{chen2019transferability,
-`
 
 `
+@inproceedings{chen2019transferability,
+
   title={Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation},
 `
 
