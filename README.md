@@ -26,8 +26,8 @@ n is the gpu id you use, src and tgt can be chosen as in "dataset_list.txt".
 
 If you use this code for your research, please consider citing:
 
-`
-@inproceedings{BSP_ICML_19,
+
+`@inproceedings{BSP_ICML_19,
 
   title={Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation},  
   
@@ -39,5 +39,4 @@ If you use this code for your research, please consider citing:
   
   year={2019}
   
-}
-`
+}`
