@@ -28,10 +28,15 @@ If you use this code for your research, please consider citing:
 
 `
 @inproceedings{BSP_ICML_19,
+
   title={Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation},
+  
   author={Chen, Xinyang and Wang, Sinan and Long, Mingsheng and Wang, Jianmin},
+  
   booktitle={International Conference on Machine Learning},
+  
   pages={1081--1090},
+  
   year={2019}
 }
 `
