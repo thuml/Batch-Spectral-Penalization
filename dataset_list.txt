@@ -8,7 +8,7 @@ C: Clipart in officehome
 P: Product in officehome
 R: Real_World in officehome
 
-We use ResNet-101 for vista and ResNet-50 for office and officehome.
+We use ResNet-101 for visda and ResNet-50 for office and officehome.
 
 
 
